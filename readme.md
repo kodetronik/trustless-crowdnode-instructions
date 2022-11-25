@@ -67,6 +67,36 @@ flatpak install flathub com.belmoussaoui.Authenticator
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 ```
 
+```
+super 
+```
+then search
+
+```
+authenticator
+```
+
+you'll see lock
+
+![authenticator app](./assets/002-03-authenticator.png)
+
+click on the `+` sign in the top left corner
+
+this will show up:
+
+![add new authenticator blank](./assets/002-04-add-new-authenticator-blank.png)
+
+*important* have the sign up page on one side of the page and the ne authenticator on the other side
+if you take too long to figure out what you are doing it will error out and you 
+will be unable to login or signup using that email
+
+BUG ^^^ 
+
+be ready to click
+
+![scan screen](./assets/002-barcode-button.png)
+
+and then the `screenshot` button.
 
 #### 1.2 signup
 
