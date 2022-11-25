@@ -50,11 +50,13 @@ takes about an hour or two.
 
 navigate to 
 
-https://app.crowdnode.io/
+because we are using test you need to use
+
+https://test.crowdnode.io/
+
 
 click on `login` in the top left corner (if you can't see it click on the top left hamburger menu)
 
-![crowd node login](./assets/002_00_crowdnode_login.png)
 
 
 
