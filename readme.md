@@ -48,6 +48,15 @@ takes about an hour or two.
 
 ## Step 2 Setup Crowdnode 
 
+navigate to 
+
+https://app.crowdnode.io/
+
+click on `login` in the top left corner (if you can't see it click on the top left hamburger menu)
+
+![crowd node login](./assets/002_00_crowdnode_login.png)
+
+
 
 
 
